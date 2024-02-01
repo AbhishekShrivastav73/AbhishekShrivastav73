@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing skills<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>⚡ Fun fact
+<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
