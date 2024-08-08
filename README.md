@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey! I'm Abhishek Shrivastav, a Front-end developer.
+# Hey! I'm Abhishek Shrivastav, a Front-end developer
 <br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with MERN STACK<br>🌱 I’m currently learning MERN STACK <br>
 
 
