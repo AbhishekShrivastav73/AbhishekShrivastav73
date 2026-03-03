@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abhishek Shrivastav
 
-🚀 **Full-Stack Web Developer | MERN | Next.js | Laravel | GSAP Enthusiast**  
+🚀 **Full-Stack Web Developer | MERN | Next.js | GSAP Enthusiast**  
 💡 Building real-world products, scalable systems & smooth user experiences.
 
 ---
